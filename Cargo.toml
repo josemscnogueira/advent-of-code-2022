@@ -27,7 +27,23 @@ path = "05/src/main.rs"
 name = "tuning-trouble"
 path = "06/src/main.rs"
 
+[[bin]]
+name = "no-space-left"
+path = "07/src/main.rs"
+
+[[bin]]
+name = "tree-house"
+path = "08/src/main.rs"
+
+[[bin]]
+name = "rope-bridge"
+path = "09/src/main.rs"
+
+[[bin]]
+name = "cathode-ray-tube"
+path = "10/src/main.rs"
 
 [dependencies]
 itertools = "*"
 regex = "*"
+grid = "*"
